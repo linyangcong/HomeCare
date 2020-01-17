@@ -1,0 +1,31 @@
+.ant-layout-header{
+    background: #001529;
+    text-align: left;
+    
+}
+.ant-layout-sider{
+    overflow-x: hidden;
+}
+::-webkit-scrollbar { 
+    display: none; }
+.ant-layout-content{
+    background: #0d7ce4
+}
+.ant-layout-footer{
+background: #001529
+}
+.ant-layout{
+    color: white;
+    text-align:center;
+    font-size: 20px;
+}
+.ant-col-3{
+    text-align: right
+}
+.ant-modal-body{
+    padding-top: 0px;
+    padding-right: 0px
+}
+.ant-tabs-bar{
+    margin: 0px
+}

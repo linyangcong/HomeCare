@@ -1,0 +1,38 @@
+.login{
+    width: 70%;
+    /* height: 40%; */
+/* margin-top: 10%; */
+    left: 16%;
+    top: 16%;
+    position: fixed;
+    margin: auto
+}
+
+span{
+    cursor: pointer;
+}
+
+span:active{
+    color: #1890ff;
+    cursor: pointer;
+    text-align: center;
+}
+.logintip{
+    text-align: center;
+    display: block;
+}
+.ant-card-head-title{
+    padding: 12px 0;
+    color:dodgerblue;
+    font-size: 20px;
+}
+.ant-collapse > .ant-collapse-item:last-child, .ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header{
+    color:#1890ff;
+}
+.loginboder{
+    line-height: 4px
+}
+.ant-collapse-content > .ant-collapse-content-box{
+    text-align:center;
+    padding: 10px;
+}

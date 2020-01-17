@@ -1,0 +1,25 @@
+/* .ant-input{
+    width: 100px
+} */
+
+.ant-row{
+    text-align: right;
+    margin-top:3px;
+}
+.col-img{
+width: 220px;
+margin-left:20px;
+text-align:center
+}
+.ant-checkbox-wrapper + .ant-checkbox-wrapper{
+    margin:0
+}
+.ant-card-wider-padding .ant-card-body{
+    padding:10px 10px;
+}
+.ant-collapse > .ant-collapse-item > .ant-collapse-header{
+    line-height: 0px;
+}
+.ant-collapse-content > .ant-collapse-content-box{
+    padding:10px 0px;
+}

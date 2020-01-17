@@ -1,0 +1,13 @@
+.ant-card-head-title{
+line-height: 0px;
+}
+.ant-card-wider-padding .ant-card-head{
+    min-height: 24px;
+    padding:0px;
+}
+.ant-divider-horizontal{
+    margin:12px 0;
+}
+.btnmargin{
+    margin:0 2px
+}
