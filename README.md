@@ -1,13 +1,16 @@
 # HomeCare
 This Project Contains Gouda map,React-amap,React-Router,antd,choose Transportation ;Not perfect....
 
-#How To Run
+How To Run
+
 for yarn:
     yarn start 
+
 or npm/cnpm:
     npm/cnpm run start
-#Main
+
+Main
 For technical communication only, please do not use for business
 
-#Author
+Author
 Copyright githud https://github.com/linyangcong
