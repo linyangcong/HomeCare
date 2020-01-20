@@ -1,5 +1,5 @@
 {
-  "homepage": "./",
+  "homepage": "./HomeCare/build/",
   "name": "antdemo",
   "version": "0.1.0",
   "private": true,
