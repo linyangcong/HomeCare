@@ -14,3 +14,6 @@ For technical communication only, please do not use for business
 
 Author
 Copyright githud https://github.com/linyangcong
+
+View:
+you can see https://linyangcong.github.io/HomeCare/build/
